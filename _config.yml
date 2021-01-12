@@ -20,15 +20,15 @@ remote_theme : mmistakes/minimal-mistakes
 locale                   : "en-US"
 title                    : "SEHOON DEVLOG"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KWON SEHOON"
+subtitle                 : "V1.0"# site tagline that appears below site title in masthead
+name                     : "권세훈"
 description              : "insta @noohesnowk"
 url                      : "https://devkwonsehoon.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "세훈 개발로그"# overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -97,8 +97,8 @@ analytics:
 author:
   name             : "KWON SEHOON"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "insta **@noohesnowk**"
-  location         : "South Korea"
+  bio              : "꾸준히 개발 공부를 하고 있습니다. <br> 가끔 포스팅에 오류나 수정할 부분이 있다면 언제든 댓글로 요청해주시면 감사하겠습니다 !"
+  location         : "Republic of Korea"
   email            : "devkwonsehoon@naver.com"
   links:
     - label: "Email"
